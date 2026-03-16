@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Chaves
+infra/service-account.json
+
 # Distribution / packaging
 .Python
 build/
